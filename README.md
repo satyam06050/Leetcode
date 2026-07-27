@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyam06050/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/satyam06050/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam06050/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/satyam06050/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/satyam06050/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
