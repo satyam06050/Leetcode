@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam06050/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/satyam06050/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
+| [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## String
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam06050/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
