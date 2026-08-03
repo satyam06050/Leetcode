@@ -7,18 +7,14 @@ class Solution:
         if total%2!=0:
             return False
         t=total//2
-        dp=[[-1]*(t+1) for _ in range(n+1)]
-        def ss(arr,n,t,dp):
-            if t==0:
-                return True
-            if n==0:
-                return False
-            if dp[n][t]!=-1:
-                return dp[n][t]
-            if arr[n-1]>t:
-                dp[n][t]=ss(arr,n-1,t,dp)
-            else:
-                dp[n][t]=(ss(arr,n-1,t-arr[n-1],dp)or ss(arr,n-1,t,dp))
-            return dp[n][t]
-        return ss(nums,n,t,dp)                             
-        
+        dp=[[0]*(t+1) for _ in range(n+1)]
+        for i in range(1,n+1):
+            for j in range(1,t+1):
+                if nums[i-1]<=j:
+                    dp[i][j]=max(nums[i-1]+dp[i-1][j-nums[i-1]],dp[i-1][j])
+                else:
+                    dp[i][j]=dp[i-1][j]    
+
+                
+
+        return dp[n][t]==t        
