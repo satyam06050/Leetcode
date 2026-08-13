@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam06050/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/satyam06050/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/satyam06050/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/satyam06050/Leetcode/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
 ## Stack
 |  |
 | ------- |
