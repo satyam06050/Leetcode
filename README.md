@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/satyam06050/Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/satyam06050/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/satyam06050/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/satyam06050/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
