@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/satyam06050/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/satyam06050/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/satyam06050/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1729-find-followers-count](https://github.com/satyam06050/Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/satyam06050/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
