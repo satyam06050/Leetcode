@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satyam06050/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam06050/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/satyam06050/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/satyam06050/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam06050/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyam06050/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyam06050/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/satyam06050/Leetcode/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/satyam06050/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/satyam06050/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyam06050/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam06050/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyam06050/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/satyam06050/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
