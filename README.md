@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/satyam06050/Leetcode/tree/master/0494-target-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam06050/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/satyam06050/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/satyam06050/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/satyam06050/Leetcode/tree/master/0070-climbing-stairs) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam06050/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/satyam06050/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satyam06050/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
