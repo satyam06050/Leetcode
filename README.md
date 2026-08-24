@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/satyam06050/Leetcode/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/satyam06050/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/satyam06050/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam06050/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/satyam06050/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/satyam06050/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam06050/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Design
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/satyam06050/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
