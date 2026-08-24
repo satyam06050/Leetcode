@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/satyam06050/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/satyam06050/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/satyam06050/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam06050/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
@@ -92,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/satyam06050/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/satyam06050/Leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/satyam06050/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/satyam06050/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
+| [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/satyam06050/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/satyam06050/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/satyam06050/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/satyam06050/Leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Knapsack Problem
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/satyam06050/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
