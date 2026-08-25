@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam06050/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/satyam06050/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam06050/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyam06050/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/satyam06050/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
