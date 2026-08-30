@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam06050/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/satyam06050/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
 | [0312-burst-balloons](https://github.com/satyam06050/Leetcode/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/satyam06050/Leetcode/tree/master/0494-target-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam06050/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyam06050/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satyam06050/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/satyam06050/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -226,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/satyam06050/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
