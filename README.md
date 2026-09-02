@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satyam06050/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/satyam06050/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/satyam06050/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/satyam06050/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/satyam06050/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/satyam06050/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/satyam06050/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/satyam06050/Leetcode/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/satyam06050/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
