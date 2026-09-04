@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam06050/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam06050/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satyam06050/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/satyam06050/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -256,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satyam06050/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/satyam06050/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
